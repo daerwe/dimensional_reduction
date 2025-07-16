@@ -1,4 +1,4 @@
-NOFIELD <- 3 #This program only works for 3 fields
+NOFIELD <- 3 #This program only works for 3 comparison fields
 NROWS <- 2^(NOFIELD - 1) * NOFIELD *2^NOFIELD
 NCOLS <- NOFIELD - 1
 TORICDESIGNMATALLSWAP1ST <- matrix(nrow = NROWS, ncol = NCOLS)

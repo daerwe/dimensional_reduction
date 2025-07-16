@@ -1,5 +1,5 @@
-NOFIELD <- 3
-NROWS <- 2^(NOFIELD - 1) * NOFIELD * 2^NOFIELD
+NOFIELD <- 3 #This program only works for 3 fields
+NROWS <- 2^(NOFIELD - 1) * NOFIELD *2^NOFIELD
 NCOLS <- NOFIELD - 1
 TORICDESIGNMATALLSWAP1ST <- matrix(nrow = NROWS, ncol = NCOLS)
 

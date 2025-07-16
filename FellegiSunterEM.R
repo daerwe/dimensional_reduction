@@ -1,4 +1,3 @@
-#start <- proc.time()
 NOFIELD <- 3
 
 # Counts
